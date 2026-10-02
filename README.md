@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Anmol0304/Anmol0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anmol, an aspiring AI & ML Engineer from India.
 
-Here are some ideas to get you started:
+I’m currently learning and building projects in Python, Machine Learning, and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into projects, exploring new technologies, and improving my skills through hands-on practice.
+
+### 🚀 What I'm Working On
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python & Data Science
+- 💻 C Programming & Development
+- 📊 Building practical projects
+
+### 🛠️ Tech I'm Learning
+Python • C • Machine Learning • AI • Data Science • Git & GitHub
+
+### 🎯 Goal
+To become a skilled AI & ML Engineer and build useful real-world solutions.
+
+> Learn. Build. Improve. Repeat.
